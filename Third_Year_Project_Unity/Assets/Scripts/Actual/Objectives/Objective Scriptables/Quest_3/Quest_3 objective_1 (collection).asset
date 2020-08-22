@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b435f53cca9b44dae51c3b6f140868, type: 3}
+  m_Name: Quest_3 objective_1 (collection)
+  m_EditorClassIdentifier: 
+  title: Collect hoverboard
+  description: You should search the lockers for clues about where turtle is. You
+    should put the clue on the table. The clue should be in an oddly coloured locker.
+  pos: {x: 5.033, y: 0.947, z: -1.95}
+  questMarker_slug: quest_marker_1
+  objectiveStats:
+  - statData:
+      stat_name: Obstacles Hit
+      points: 0
+  collectionItems:
+  - name: Hover Board
+    object_slug: collectible_hover_board
+    positions:
+    - {x: 3.2879, y: 0.4065, z: 10.9204}

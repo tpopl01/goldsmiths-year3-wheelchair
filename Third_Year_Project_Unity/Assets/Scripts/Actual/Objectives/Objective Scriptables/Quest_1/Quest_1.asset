@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6029b76826f422d43a80ed1898e3597d, type: 3}
+  m_Name: Quest_1
+  m_EditorClassIdentifier: 
+  title: Discovery
+  description: You can return to this board whenever you need to know what to do.
+  objectives:
+  - {fileID: 11400000, guid: ffa829d3079d7cd4a8c3b926e758d52c, type: 2}
+  - {fileID: 11400000, guid: 2254b44c86ba15c43886f7ad78ee2aba, type: 2}
+  - {fileID: 11400000, guid: fab407e7faa749c43b3bf4117a50c47e, type: 2}
+  - {fileID: 11400000, guid: d9ba29066de666a4ab099f517c21c9d3, type: 2}
+  - {fileID: 11400000, guid: 2333029beaba82745900247098223634, type: 2}
+  progress: 0
+  s: []

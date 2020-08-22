@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b435f53cca9b44dae51c3b6f140868, type: 3}
+  m_Name: Quest_1 test_1 (Collection)
+  m_EditorClassIdentifier: 
+  description: 
+  pos: {x: 0, y: 0, z: 0}
+  questMarker_slug: quest_marker_1
+  collectionItems:
+  - name: Test
+    object_slug: collectible_test
+    positions:
+    - {x: 2.219, y: 1, z: -1.24}
+    - {x: 2.219, y: 1, z: -3.24}

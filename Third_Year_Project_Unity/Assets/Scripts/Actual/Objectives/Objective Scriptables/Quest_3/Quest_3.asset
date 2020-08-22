@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6029b76826f422d43a80ed1898e3597d, type: 3}
+  m_Name: Quest_3
+  m_EditorClassIdentifier: 
+  title: Finding Turtle
+  description: There must be some clues in this school about where turtle is.
+  objectives:
+  - {fileID: 11400000, guid: 7fbb557e5ecf20748bdd387a2c8bd294, type: 2}
+  - {fileID: 11400000, guid: a68dd9847da84364fa7ef23ac63fbb07, type: 2}
+  - {fileID: 11400000, guid: 9d8320d9f919b4d4e858b3a8cde6d74f, type: 2}
+  - {fileID: 11400000, guid: 7380138d7759f2c43945fad4ae013c18, type: 2}
+  progress: 0

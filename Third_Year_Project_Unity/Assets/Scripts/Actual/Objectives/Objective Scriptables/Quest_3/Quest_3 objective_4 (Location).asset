@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a636bc5b4c3e114db15f74598ba7ad5, type: 3}
+  m_Name: Quest_3 objective_4 (Location)
+  m_EditorClassIdentifier: 
+  title: Navigation to art room
+  description: You should see if You can find any clues on the second floor. Maybe
+    a drawing in an art room.
+  pos: {x: 19.776, y: 3.292, z: 7}
+  questMarker_slug: quest_marker_1
+  objectiveStats:
+  - statData:
+      stat_name: Obstacles Hit
+      points: 0
+  maxDistanceFromTargetLocation: 3

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f07bd227b86e0745820e242602718ff, type: 3}
+  m_Name: Quest_3 Objective_2 (Button)
+  m_EditorClassIdentifier: 
+  title: Call lift button
+  description: Turtle wouldn't just leave the hoverboard. Maybe something bad has
+    happened. You should look on the second floor for more clues. Where is the lift?
+  pos: {x: 0.97, y: 1.319, z: 17.093}
+  questMarker_slug: quest_marker_1
+  objectiveStats:
+  - statData:
+      stat_name: Obstacles Hit
+      points: 0
+  button_id: 0

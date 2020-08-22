@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61d420a6a973d6548b715e7f9bc4f24a, type: 3}
+  m_Name: Quest_1 objective_4 (Button Press)
+  m_EditorClassIdentifier: 
+  title: 
+  description: Press your index finger on the controller. It will display your objectives.
+  pos: {x: 0, y: 0, z: 0}
+  questMarker_slug: quest_marker_1
+  objectiveStats:
+  - statData:
+      stat_name: Obstacles Hit
+      points: 0
+  button: 2105344
+  turtle_speech: Here I have this device for you. Press the trigger button to open
+    it up.
