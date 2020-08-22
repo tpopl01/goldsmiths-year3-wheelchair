@@ -7,9 +7,7 @@ Requires VR headset
 Powered Wheelchair Simulation.
 Created for young people with Muscular Dystrophy to teach them how to use a powered wheelchair.
 
-To Use.
-1. Open in Unity 2019.2.2f1 hit play. If you want to play the build version: go to file -> Build Settings -> Build and Run.
-2. Use the oculus controller to move the wheelchair
+Currently only contains the scripts used to create the simulation a preview of the project can be found at: https://www.youtube.com/watch?v=w0Kn6GIXVHg
 
 
 Used Assets:
